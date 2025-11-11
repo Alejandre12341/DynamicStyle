@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { StyleSheet, Platform } from "react-native";
 import { Parser } from "expr-eval"; // npm install expr-eval
 import tinycolor from "tinycolor2"; // npm install tinycolor2
@@ -202,6 +201,7 @@ export function createDynamicStyleSheet(
 export function registerResolver(name, fn) {
   defaultResolvers[name] = fn;
 }
+
 =======
 import { StyleSheet, Platform } from "react-native";
 import { evaluate } from "mathjs";
@@ -469,4 +469,3 @@ export function createDynamicStyleSheet(styleJSON, context) {
 export function registerResolver(name, fn) {
   defaultResolvers[name] = fn;
 }
->>>>>>> 06b7202 (First Commit)
