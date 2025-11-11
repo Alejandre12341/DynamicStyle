@@ -1,0 +1,39 @@
+{
+  "name": "dynamic-styles-react-native",
+  "version": "1.0.0",
+  "description": "API dinámica para estilos en React Native con soporte de temas, condiciones y expresiones.",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usuario/dynamic-styles-react-native.git"
+  },
+  "keywords": [
+    "react-native",
+    "dynamic-styles",
+    "theme",
+    "context",
+    "style",
+    "api",
+    "resolvers"
+  ],
+  "author": "Alejandro",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "mathjs": "^12.3.0",
+    "tinycolor2": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0",
+    "build": "echo \"Build step not required (pure JS)\""
+  },
+  "bugs": {
+    "url": "https://github.com/usuario/dynamic-styles-react-native/issues"
+  },
+  "homepage": "https://github.com/usuario/dynamic-styles-react-native#readme"
+}
