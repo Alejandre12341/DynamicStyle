@@ -7,7 +7,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/usuario/dynamic-styles-react-native.git"
+    "url": "git+https://github.com/Alejandre12341/DynamicStyle.git"
   },
   "keywords": [
     "react-native",
@@ -32,8 +32,8 @@
     "test": "echo \"No tests yet\" && exit 0",
     "build": "echo \"Build step not required (pure JS)\""
   },
+  "homepage": "https://github.com/Alejandre12341/DynamicStyle#readme",
   "bugs": {
-    "url": "https://github.com/usuario/dynamic-styles-react-native/issues"
-  },
-  "homepage": "https://github.com/usuario/dynamic-styles-react-native#readme"
+    "url": "https://github.com/Alejandre12341/DynamicStyle/issues"
+  }
 }
